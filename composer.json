@@ -1,0 +1,10 @@
+{
+    "name": "user/project",
+    "description": "Small talk",
+    "keywords": ["php", "composer"],
+    "license": "MIT",
+    "bin": [
+        "./sayHi",
+        "./sayBye"
+    ]
+}
